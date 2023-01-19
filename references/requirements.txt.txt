@@ -1,0 +1,38 @@
+Following libraries need to be installed
+****************************************
+=> pandas 
+Python Data Analysis library.
+To install -> pip install pandas
+
+=> numpy
+NumPy is the fundamental package for scientific computing in Python.
+To install -> pip install numpy
+
+=> matplotlib
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+To install -> pip install matplotlib    
+
+=> seaborn
+Seaborn is a Python data visualization library based on matplotlib.
+To install -> pip install seaborn
+
+=> sweetviz
+Automated Exploratory Data Analysis in python
+To install -> pip install sweetviz
+
+=> scipy
+SciPy in Python is an open-source library used for solving mathematical, scientific, engineering, and technical problems. 
+To install -> pip install scipy
+
+=> imblearn
+Imbalanced-Learn is a Python module that helps in balancing the datasets which are highly skewed or biased towards some classes.
+To install -> pip install imbalanced-learn
+
+=> sklearn
+scikit-learn library is an exhaustive collection of the most efficient tools for statistical modeling and Machine Learning. 
+To install -> pip install -U scikit-learn
+
+=> pickle
+For saving and loading the machine learning models.
+To install -> pip install pickle
+

@@ -1,0 +1,62 @@
+Data_Dictionary_INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8
+**************************************************************************
+We have data for 1200 employees with 28 features.
+
+1. EmpNumber - Employee ID of the employee. This is a unique number that has been assigned to each and every employee.
+
+2. Age - Age of the Employee
+
+3. Gender - Gender of the employee
+
+4. EducationBackground - Educational ackground of the employee
+
+5. MaritalStatus - Marital status of the employee (Single/Married/Divorced)
+
+6. EmpDepartment - Department of the employee (6 Departments)
+
+7. EmpJobRole - Job role of the employee
+
+8. BusinessTravelFrequency - Frequency of the business travel of the employee (Travel_Rarely/Travel_Frequently/Non-Travel)
+
+9. DistanceFromHome - Distance from home to office in kms
+
+10. EmpEducationLevel - Education level of the employee (ratings 1-5)
+
+11. EmpEnvironmentSatisfaction - Environment satisfaction of the employee (ratings 1-4)
+
+12. EmpHourlyRate - Hourly rate of pay for the employee (Amount of pay / hours worked = hourly rate)
+
+13. EmpJobInvolvement - Job involvement of the Employee (ratings 1-4)
+
+14. EmpJobLevel - Employee's Job level (ratings 1-5)
+
+15. EmpJobSatisfaction - Job satisfaction of the employee (ratings 1-4)
+
+16. NumCompaniesWorked - Number of companies worked before current job
+
+17. OverTime - Does employee work's overtime (Yes/No)
+
+18. EmpLastSalaryHikePercent - Last Salary Hike percentage of the employee
+
+19. EmpRelationshipSatisfaction - Relationship satisfaction of the employee (ratings 1-4)
+
+20. TotalWorkExperienceInYears - Total work experience of the employee (Years)
+
+21. TrainingTimesLastYear -Number of trainings Employee attended last year
+
+22. EmpWorkLifeBalance - Work life balance of the employee (ratings 1-4)
+
+23. ExperienceYearsAtThisCompany - Employee's Total work experience at this company (Years)
+
+24. ExperienceYearsInCurrentRole - Total work experience in current role (Years)
+
+25. YearsSinceLastPromotion - Total number of years since last promotion
+
+26. YearsWithCurrManager - Total number of years employee has worked with the current manager
+
+27. Attrition - Possibility of employee leaving the company(Yes/No)
+
+28. PerformanceRating - Performace Rating of the employee
+				2 - Needs Improvement
+				3 - Meets expectations
+				4 - Exceeds requirement
